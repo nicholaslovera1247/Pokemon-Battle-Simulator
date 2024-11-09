@@ -1,0 +1,166 @@
+Index,Name,Type,Damage
+1,Absorb,Grass,25
+2,Acid,Poison,30
+3,Acid Armor,Poison,20
+4,Agility,Psychic,30
+5,Amnesia,Psychic,20
+6,Aurora Beam,Ice,20
+7,Barrage,Normal,20
+8,Barrier,Psychic,20
+9,Bide,Normal,10
+10,Bind,Normal,20
+11,Bite,Dark,25
+12,Blizzard,Ice,5
+13,Body Slam,Normal,15
+14,Bone Club,Ground,20
+15,Bonemerang,Ground,10
+16,Bubble,Water,30
+17,Bubble Beam,Water,20
+18,Clamp,Water,15
+19,Comet Punch,Normal,15
+20,Confuse Ray,Ghost,10
+21,Confusion,Psychic,25
+22,Conversion,Normal,35
+23,Constrict,Normal,30
+24,Counter,Fighting,20
+25,Crabhammer,Water,10
+26,Cut,Normal,30
+27,Defense Curl,Normal,40
+28,Dig,Ground,10
+29,Disable,Normal,20
+30,Dizzy Punch,Normal,10
+31,Double Kick,Fighting,30
+32,Double Slap,Normal,10
+33,Double Team,Normal,15
+34,Double Edge,Normal,15
+35,Dragon Rage,Dragon,10
+36,Dream Eater,Psychic,15
+37,Drill Peck,Flying,20
+38,Earthquake,Ground,10
+39,Egg Bomb,Normal,10
+40,Ember,Fire,25
+41,Explosion,Normal,5
+42,Fire Blast,Fire,5
+43,Fire Punch,Fire,15
+44,Fire Spin,Fire,15
+45,Fissure,Ground,5
+46,Flamethrower,Fire,15
+47,Flash,Normal,20
+48,Fly,Flying,15
+49,Focus Energy,Normal,30
+50,Fury Attack,Normal,20
+51,Fury Swipes,Normal,15
+52,Glare,Normal,30
+53,Growl,Normal,40
+54,Growth,Normal,20
+55,Guillotine,Normal,5
+56,Gust,Flying,35
+57,Harden,Normal,30
+58,Haze,Ice,30
+59,Headbutt,Normal,15
+60,High Jump Kick,Fighting,10
+61,Horn Attack,Normal,25
+62,Horn Drill,Normal,5
+63,Hydro Pump,Water,5
+64,Hyper Beam,Normal,5
+65,Hyper Fang,Normal,15
+66,Hypnosis,Psychic,20
+67,Ice Beam,Ice,10
+68,Ice Punch,Ice,15
+69,Jump Kick,Fighting,10
+70,Karate Chop,Fighting,25
+71,Kinesis,Psychic,15
+72,Leech Life,Bug,10
+73,Leech Seed,Grass,10
+74,Leer,Normal,30
+75,Lick,Ghost,30
+76,Light Screen,Psychic,30
+77,Lovely Kiss,Normal,10
+78,Low Kick,Fighting,20
+79,Meditate,Psychic,40
+80,Mega Drain,Grass,15
+81,Mega Kick,Normal,5
+82,Mega Punch,Normal,20
+83,Metronome,Normal,10
+84,Mimic,Normal,10
+85,Minimize,Normal,10
+86,Mirror Move,Flying,20
+87,Mist,Ice,30
+88,Night Shade,Ghost,15
+89,Pay Day,Normal,20
+90,Peck,Flying,35
+91,Petal Dance,Grass,10
+92,Pin Missile,Bug,20
+93,Poison Gas,Poison,40
+94,Poison Powder,Poison,35
+95,Poison Sting,Poison,35
+96,Pound,Normal,35
+97,Psybeam,Psychic,20
+98,Psychic,Psychic,10
+99,Psywave,Psychic,15
+100,Quick Attack,Normal,30
+101,Rage,Normal,20
+102,Razor Leaf,Grass,25
+103,Razor Wind,Normal,10
+104,Recover,Normal,5
+105,Reflect,Psychic,20
+106,Rest,Psychic,5
+107,Roar,Normal,20
+108,Rock Slide,Rock,10
+109,Rock Throw,Rock,15
+110,Rolling Kick,Fighting,15
+111,Sand Attack,Ground,15
+112,Scratch,Normal,35
+113,Screech,Normal,40
+114,Seismic Toss,Fighting,20
+115,Self Destruct,Normal,5
+116,Sharpen,Normal,30
+117,Sing,Normal,15
+118,Skull Bash,Normal,10
+119,Sky Attack,Flying,5
+120,Slam,Normal,20
+121,Slash,Normal,20
+122,Sleep Powder,Grass,15
+123,Sludge,Poison,20
+124,Smog,Poison,20
+125,Smokescreen,Normal,20
+126,Soft Boiled,Normal,5
+127,Solar Beam,Grass,10
+128,Sonic Boom,Normal,20
+129,Spike Cannon,Normal,15
+130,Splash,Normal,40
+131,Spore,Grass,15
+132,Stomp,Normal,20
+133,Strength,Normal,15
+134,String Shot,Bug,40
+135,Struggle,Normal,5
+136,Stun Spore,Grass,30
+137,Submission,Fighting,20
+138,Substitute,Normal,10
+139,Super Fang,Normal,10
+140,Supersonic,Normal,20
+141,Surf,Water,15
+142,Swift,Normal,20
+143,Swords Dance,Normal,20
+144,Tackle,Normal,35
+145,Tail Whip,Normal,30
+146,Take Down,Normal,20
+147,Teleport,Psychic,20
+148,Thrash,Normal,10
+149,Thunder,Electric,10
+150,Thunder Punch,Electric,15
+151,Thunder Shock,Electric,30
+152,Thunder Wave,Electric,20
+153,Thunderbolt,Electric,15
+154,Toxic,Poison,10
+155,Transform,Normal,10
+156,Tri Attack,Normal,10
+157,Twineedle,Bug,20
+158,Vine Whip,Grass,25
+159,Vise Grip,Normal,30
+160,Water Gun,Water,25
+161,Waterfall,Water,15
+162,Whirlwind,Normal,20
+163,Wing Attack,Flying,35
+164,Withdraw,Water,40
+165,Wrap,Normal,20
